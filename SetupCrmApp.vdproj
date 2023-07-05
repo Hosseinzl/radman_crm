@@ -203,7 +203,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:CrmApp"
         "ProductCode" = "8:{99949382-1271-436A-BD7F-A7D4C6D05749}"
-        "PackageCode" = "8:{2E7E75AE-B0AF-42A3-8B0A-A230BE868CB8}"
+        "PackageCode" = "8:{526DC033-E233-4293-AC40-7B9DFAAE0E5D}"
         "UpgradeCode" = "8:{79465CE9-0B9A-4904-9E07-2BEE4D65347D}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
